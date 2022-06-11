@@ -8,3 +8,5 @@ I fixed it by letting this program create a new playlist that is the old (source
 Each song appears once in the new playlist.
 
 It's not really user friendly right now, as you can't actually use it without figuring some stuff out and changing some variables but I'm looking into fixing that eventually.
+
+Code will be added later
